@@ -39,7 +39,7 @@ export default function Home() {
         </div>
         <div className="flex justify-center mt-3">
           <p className="text-center text-gray-500">
-            Don't have an account?{' '}
+            Don&lsquo;t have an account?{' '}
             <Link href="/signup" className="text-teal-600 font-semibold text-sm hover:underline hover:decoration-teal-600">
               Sign Up
             </Link>
